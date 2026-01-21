@@ -6,6 +6,14 @@ A Claude Code skill that converts Postman collection JSON files to Apache JMeter
 
 This skill converts API collections exported from Postman into Apache JMeter load test scripts. It supports common HTTP methods (GET, POST, PUT, DELETE, PATCH) with JSON body and form data, preserving Postman variables and adding response assertions.
 
+## Demo Video
+
+Check out the [demo video](template/postman-to-jmx.mp4) to see how this skill works:
+
+<video src="template/postman-to-jmx.mp4" width="100%" controls>
+  Your browser does not support the video tag. <a href="template/postman-to-jmx.mp4">Download Video</a>
+</video>
+
 ## Directory Structure
 
 ```
